@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "openchat-dev-20191015142057-authRole",
+            "UnauthRoleArn": "arn:aws:iam::334328925511:role/openchat-dev-20191015142057-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::334328925511:role/openchat-dev-20191015142057-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "openchat-dev-20191015142057-deployment",
+            "UnauthRoleName": "openchat-dev-20191015142057-unauthRole",
+            "StackName": "openchat-dev-20191015142057",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:334328925511:stack/openchat-dev-20191015142057/960f61e0-ef0b-11e9-9bee-0630d5fedeae"
+        }
+    }
+}
